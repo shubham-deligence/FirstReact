@@ -1,0 +1,13 @@
+.card-list {
+    
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    min-height: 300px;
+    border:1px solid white
+}
+.monsImg {
+    height:200px;
+    width: 50%;
+    margin:0 auto
+}
